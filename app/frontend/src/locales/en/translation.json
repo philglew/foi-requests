@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Zellis FOI Search",
+    "headerTitle": "Zellis FOI Search",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -34,20 +34,20 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with your data",
-    "chatEmptyStateSubtitle": "Ask anything or try an example",
+    "chatEmptyStateTitle": "Chat with your FOI responses",
+    "chatEmptyStateSubtitle": "Ask anything",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
+        "1": "What Freedom of Information responses have we had from X?",
+        "2": "What did X say was their employee count?",
+        "3": "Which software did X say they use for HR and Payroll?",
         "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
-        "1": "Compare the impact of interest rates and GDP in financial markets.",
-        "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
-        "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "Example: Does my plan cover annual eye exams?"
+        "1": "Tell me the amount of responses received from X.",
+        "2": "Tell me the total amount of responders who use X as their HR and/or Payroll provider",
+        "3": "Can you identify any correlation between responders who use Power Automate in terms of employee count?",
+        "placeholder": "Example: Have any responders said that they pay pensioners?"
     },
     "generatingAnswer": "Generating answer",
     "citationWithColon": "Citation:",
