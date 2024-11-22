@@ -40,7 +40,7 @@
         "1": "What Freedom of Information responses have we had from X?",
         "2": "What did X say was their employee count?",
         "3": "Which software did X say they use for HR and Payroll?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "placeholder": "Type a new question (e.g. When did X respond to the request?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
